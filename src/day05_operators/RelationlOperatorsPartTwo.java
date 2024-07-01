@@ -22,7 +22,7 @@ public class RelationlOperatorsPartTwo {
 
         System.out.println("java" != "JAVA");  // true
 
-        System.out.println("Muhtar" != "Good Guy"); // true
+        System.out.println("Hello" != "Good Guy"); // true
 
         System.out.println( true != false);  // true
     }
