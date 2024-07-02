@@ -67,5 +67,5 @@ Create a class called Restaurant
 	                hireChef(Chef [] chefs): accepts an array of Chef objects and adds all of them to the Chef ArrayList
 	                terminateChef(int employeeID): removes the chef with the matching ID from the arraylist of chef
 	                terminateServer(int employeeID) removes the server with the matching ID from the arraylist of server
-	                toString(): Return (String) of all the information of a Restaurant object. No need to print the whole list of Servers or Chefs. Print the number of Servers and Chefs along side the other information
+	                toString(): Return (String) of all the information of a Restaurant object. No need to print the whole list of Servers or Chefs. Print the number of Servers and Chefs alongside the other information
  */
