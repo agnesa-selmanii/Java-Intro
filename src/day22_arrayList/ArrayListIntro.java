@@ -7,7 +7,7 @@ public class ArrayListIntro {
     public static void main(String[] args) {
 
         //REMOVE method not good because the size if dynamic and if we want to
-        //remove arr.get(i) <4 atehere mundet qe nr ma te vogel se 4 mos mi fshi sepse pozita e elementeve ndrron
+        //remove arr.get(i) <4 it will not remove all elements smaller than 4 because the position of elements changes
         //supports only non-primitives, dynamic
         ArrayList<Integer> list=new ArrayList<>(); // NOT <int> it doesn't accept it
         list.add(0); //0
